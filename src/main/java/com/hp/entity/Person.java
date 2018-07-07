@@ -1,7 +1,7 @@
 package com.hp.entity;
 
 public class Person {
-    private Integer idsy;
+    private Integer idssfsfy;
     private String name;
 
     public Integer getIdss() {
