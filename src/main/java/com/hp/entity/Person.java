@@ -1,15 +1,15 @@
 package com.hp.entity;
 
 public class Person {
-    private Integer ids;
+    private Integer idsy;
     private String name;
 
     public Integer getIds() {
-        return ids;
+        return idsy;
     }
 
     public void setIds(Integer ids) {
-        this.ids = ids;
+        this.idsy = ids;
     }
 
     public String getName() {
