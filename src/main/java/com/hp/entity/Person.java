@@ -4,12 +4,12 @@ public class Person {
     private Integer idsy;
     private String name;
 
-    public Integer getIds() {
+    public Integer getIdss() {
         return idsy;
     }
 
-    public void setIds(Integer ids) {
-        this.idsy = ids;
+    public void setIdss(Integer idss) {
+        this.idsy = idss;
     }
 
     public String getName() {
