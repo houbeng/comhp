@@ -2,7 +2,7 @@ package com.hp.entity;
 
 public class Person {
     private Integer ffsfsfidsy;
-    private String name;
+    private String nfsfsame;
 
     public Integer getIdss() {
         return ffsfsfidsy;
@@ -13,10 +13,10 @@ public class Person {
     }
 
     public String getName() {
-        return name;
+        return nfsfsame;
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.nfsfsame = name;
     }
 }
